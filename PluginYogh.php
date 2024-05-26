@@ -7,7 +7,7 @@
  * Author URI:      https://www.yogh.com.br/
  * Text Domain:     client-customization
  * Domain Path:     /languages
- * Version:         0.1.1
+ * Version:         0.2.0
  *
  * @package         Client_Customization
  */
